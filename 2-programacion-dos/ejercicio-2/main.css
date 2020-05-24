@@ -1,0 +1,16 @@
+.main{
+    background-color: #eedade;
+}
+.main__title{
+    color: #ff0000;
+}
+
+.super-wawe{
+    color: #7acf58;
+}
+
+.saludo{
+    color: #ff7722;
+    border: solid 2px #020a7a;
+    font-size: 50px;
+}
