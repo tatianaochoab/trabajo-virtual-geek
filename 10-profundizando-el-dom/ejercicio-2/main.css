@@ -1,0 +1,11 @@
+#container{
+    width: 500px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+img{
+    margin: 20px;
+    width: 200px;
+}
